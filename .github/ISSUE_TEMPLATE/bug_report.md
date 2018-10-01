@@ -10,8 +10,7 @@ Please don't say 'latest' and ensure the bug is present in the most recent pack 
 **Describe the bug**
 A detailed description of the issue
 
-**How to Reproduce**
-Steps to reproduce the behavior:
+**Steps to reproduce the bug**
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
